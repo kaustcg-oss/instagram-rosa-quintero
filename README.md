@@ -22,6 +22,12 @@ Repositorio de contenido para la página profesional de Instagram del consultori
 - Crema `#F7F8F3`
 - Títulos en Lora (serif), textos en Inter (sans)
 
+## Consultorio
+
+- Centro Médico Solmar, Calle Sexta 1975, Col. Obrera, 22880 Ensenada, B.C.
+- WhatsApp: 662-445-02-02
+- Zona horaria: America/Tijuana
+
 ## Pendientes
 
 - Confirmar con la Dra. Rosa los datos clínicos de los textos.

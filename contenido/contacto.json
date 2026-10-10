@@ -5,5 +5,10 @@
   "cta_default": "Escríbenos por WhatsApp al 662-445-02-02 o mensaje directo",
   "zona_horaria": "America/Tijuana",
   "ciudad": "Ensenada, Baja California",
-  "direccion": "PENDIENTE: confirmar dirección del consultorio"
+  "direccion": "Centro Médico Solmar, Calle Sexta 1975, Col. Obrera, 22880 Ensenada, B.C.",
+  "coordenadas": {
+    "lat": 31.8622123,
+    "lng": -116.6073876
+  },
+  "place_id_google": "ChIJn9UhMIiN2IARQ6Ppi_n6YF4"
 }
