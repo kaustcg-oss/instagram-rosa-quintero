@@ -1,0 +1,36 @@
+1
+00:00:03,390 --> 00:00:05,740
+Hola, soy la doctora Rosa María Quintero,
+
+2
+00:00:05,800 --> 00:00:07,870
+egresada de la Universidad de Sonora.
+
+3
+00:00:08,500 --> 00:00:10,600
+Estamos en Ensenada, Baja California,
+
+4
+00:00:10,600 --> 00:00:13,310
+para atenderlos en odontología general
+
+5
+00:00:13,790 --> 00:00:16,150
+y atención especializada en cirugía.
+
+6
+00:00:17,070 --> 00:00:18,720
+Tengo un diplomado en cirugía,
+
+7
+00:00:18,780 --> 00:00:20,100
+atiendo con previa cita,
+
+8
+00:00:20,210 --> 00:00:22,650
+para que tu visita sea tranquila y sin esperas.
+
+9
+00:00:23,640 --> 00:00:25,430
+Agenda tu valoración por WhatsApp.
+
